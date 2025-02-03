@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java, Microservices, Spring Boot**
 
-- 🌱 I’m currently learning **Docker and Kubernate**
+- 🌱 I’m currently learning **Docker and Kubernates**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/filizhelvaci](https://github.com/filizhelvaci)
 
