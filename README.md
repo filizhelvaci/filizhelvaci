@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/filiz_kanar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="filiz_kanar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/filiz-helvaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filiz-helvaci" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/filizhelvaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filiz-helvaci" height="30" width="40" /></a>
 <a href="https://kaggle.com/filizhelvaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="filizhelvaci" height="30" width="40" /></a>
 <a href="https://instagram.com/kanar.filiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanar.filiz" height="30" width="40" /></a>
 <a href="https://medium.com/@filizhelvaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@filizhelvaci" height="30" width="40" /></a>
