@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Filiz KH</h1>
 <h3 align="center">Java Developer & Data and ML Researcher</h3>
 
-- 🔭 I’m currently working on **Java, Microservices, Spring Boot**
+- 🔭 I’m currently working on **Microservices , Kafka **
 
-- 🌱 I’m currently learning **Docker and Kubernates**
+- 🌱 I’m currently learning ** Kubernates - CI&CD Pipeline**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/filizhelvaci](https://github.com/filizhelvaci)
 
-- 💬 Ask me about **Data Science , Machine Learning , Java**
+- 💬 Ask me about **Data Science , Machine Learning , Java , Spring Boot , Docker , Microservices**
 
 - 📫 How to reach me **filizhelvaci82@gmail.com**
 
