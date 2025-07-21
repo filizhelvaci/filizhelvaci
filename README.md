@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filiz KH</h1>
 <h3 align="center">Java Developer & Data and ML Researcher</h3>
 
-- 🔭 I’m currently working on **Microservices , Kafka **
+- 🔭 I’m currently working on **Microservices , Kafka**
 
-- 🌱 I’m currently learning ** Kubernates - CI&CD Pipeline**
+- 🌱 I’m currently learning **Kubernates - CI&CD Pipeline**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/filizhelvaci](https://github.com/filizhelvaci)
 
