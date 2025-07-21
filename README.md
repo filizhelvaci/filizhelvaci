@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science , Machine Learning , Java , Spring Boot , Docker , Microservices**
 
-- 📫 How to reach me **filizhelvaci82@gmail.com**
+- 📫 How to reach me **filizhelvaci82@gmail.com , https://www.linkedin.com/in/filizhelvaci/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
